@@ -1,4 +1,10 @@
+# Configuration files
 *.conf
+
+# Output files
 *.raw
 *.wav
 *.flac
+
+# IDE-related subfolders
+.vscode/
