@@ -1,3 +1,7 @@
+# Binaries, executables
+*.out
+*.exe
+
 # Configuration files
 *.conf
 
