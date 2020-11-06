@@ -4,6 +4,8 @@ Fpbass, pronounced "Ef-pEE-bAYs", short for "Fourier-parametrized bytewise audio
 
 WAV files are generated from configuration files that supply note information. Every note is parametrized by its Fourier decomposition.
 
+So far no serious applications are planned---Fpbass is a toy project that shall explore the possibilities of command-line based audio synthesis.
+
 ## History
 
 The first codes date back to late 2016, in the context of the noise music project [Struct](http://struct.square7.ch/).
