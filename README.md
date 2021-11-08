@@ -8,7 +8,7 @@ So far no serious applications are planned---Fpbass is a toy project that shall 
 
 ## History
 
-The first codes date back to late 2016, in the context of the noise music project [Struct](http://struct.square7.ch/).
+The first codes date back to late 2016, in the context of the noise music project [Struct](http://struct.square7.ch/) ([website repo](https://github.com/dettbarn/struct-website)).
 
 In 2020, the work on a first publishable version began.
 
